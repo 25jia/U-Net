@@ -34,5 +34,4 @@
 <Br/>erode&dilate_Enhance_view 文件夹提供腐蚀膨胀操作，对多图平均二值化后的图片进行处理
 <Br/>该操作对图片具有针对性，不适合大批量操作，需要手动调节参数
 <Br/>
-<Br/>尊敬的评委老师，如果您有时间的话，可以尝试用上述操作处理多图平均二值化后的图片(out1中的png格式图)
 <Br/>详细操作在erode&dilate_Enhance_view 中的readme文件给出
